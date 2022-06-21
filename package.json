@@ -1,0 +1,19 @@
+{
+  "name": "webservice-client",
+  "version": "1.0.0",
+  "description": "JS client for webservice",
+  "main": "ws-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webservice",
+    "node",
+    "js"
+  ],
+  "author": "Allan Jackson",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.45.0"
+  }
+}
